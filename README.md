@@ -9,4 +9,7 @@ Usage:
 java com.rt.control.RunScriptFile _argument_ 
 
 - _argument_ : Path to file 
-- eg.: C:/Users/<user_name>/Desktop/fileName.bat
+- eg.: 
+```cmd
+C:/Users/<user_name>/Desktop/fileName.bat
+```
